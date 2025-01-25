@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MH_TCS34725	KEYWORD1	MH_TCS34725
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setIntegrationTime	KEYWORD2
+setGain	KEYWORD2
+getRGBC	KEYWORD2
+calculateColorTemperature	KEYWORD2
+calculateLux	KEYWORD2
+writeReg	KEYWORD2
+readReg	KEYWORD2
+readRegWord	KEYWORD2
+lock	KEYWORD2
+unlock	KEYWORD2
+clear	KEYWORD2
+setIntLimits	KEYWORD2
+enable	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
