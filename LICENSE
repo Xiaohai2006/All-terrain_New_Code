@@ -672,3 +672,9 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+This project is licensed under the GNU General Public License v3.0, with the following addition:
+
+1. You must acknowledge that this work is created by [Your Name/Your Organization Name].
+   You may do so in a reasonable manner, but not in any way that suggests you have been authorized by the author(s).
+
