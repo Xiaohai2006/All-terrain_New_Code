@@ -1,6 +1,8 @@
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
+## 指导QQ:3186534367
+
 # 全地形运载
 ## 第六届国际青年人工智能大赛国一
 [![去现场]](https://cloud.yhhrun.cn:86/#s/_T8hXULQ)
