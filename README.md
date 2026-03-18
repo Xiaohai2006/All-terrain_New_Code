@@ -2,7 +2,7 @@
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## 指导QQ:3186534367
-## WX:Xiaohai200609
+## WX:zhkjxiaohai
 
 # 全地形运载
 ## 第六届国际青年人工智能大赛国一
